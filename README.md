@@ -1,14 +1,27 @@
-# Run and deploy your AI Studio app
+# 📊 SDWAN Dashboard
 
-This contains everything you need to run your app locally.
+Panel de control desarrollado para visualizar el avance del proyecto de migración de red de MPLS a SD-WAN, incluyendo métricas, componentes gráficos, navegación y arquitectura escalable basada en React y Vite.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🌐 Demo en vivo
+
+- 🔵 **Netlify:** [https://sdwan-dashboard.netlify.app](https://sdwan-dashboard.netlify.app)  
+- 🟢 **Vercel:** [https://sdwan-dashboard.vercel.app](https://sdwan-dashboard.vercel.app)
+
+---
+
+## 🛠 Tecnologías utilizadas
+
+- ⚛️ React 19
+- 🛣 React Router DOM
+- 📊 Recharts
+- 🔧 Vite
+- ⌨️ TypeScript
+- 📁 Deploy: Vercel & Netlify
+
+---
+
+## 📂 Estructura del proyecto
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
