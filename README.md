@@ -1,4 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-ID/status.svg)](https://app.netlify.com/sites/sdwan-dashboard/deploys)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-black?logo=netlify)
+
 
 ![Vista previa del dashboard](./assets/dashboard-preview.png)
 
