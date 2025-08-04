@@ -1,5 +1,8 @@
-![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
-![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-black?logo=netlify)
+# 📊 SDWAN Dashboard
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e5335fb-af86-4578-af9c-f2c3fab034f6/deploy-status)](https://app.netlify.com/sites/sdwan-dashboard/deploys)
+
+Panel de control desarrollado para visualizar...
 
 
 ![Vista previa del dashboard](./assets/dashboard-preview.png)
