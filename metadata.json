@@ -1,0 +1,5 @@
+{
+  "name": "SD-WAN Migration Project Dashboard",
+  "description": "An internal web application to manage and display the status and progress of the MPLS to SD-WAN network migration project for 47 national sites.",
+  "requestFramePermissions": []
+}
